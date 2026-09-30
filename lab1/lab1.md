@@ -11,8 +11,9 @@
 * Stworzenie własnego elementu w inspektorze (Custom Inspector)
 * Instrukcja https://docs.unity3d.com/Manual/UIE-HowTo-CreateCustomInspector.html
 
-## Zadania punktowane
+## Do wykonania
 
-* Wysłanie zaproszenia do repozytorium na githubie (prywatne). Nazwa wg schematu Unity123456 gdzie 123456 to numer albumu. Mój nick to pjastr. (1pkt)
-* Spushowanie wykonania projektu (przynajmniej częściowe) Roll-a-ball (do końca dnia). (1pkt)
-* Stworzenie innego własnego CustomInspectora. (wystarczy spushować same pliki z folderu assets) (1pkt)
+* Wysłanie zaproszenia do repozytorium na githubie (prywatne). Nazwa wg schematu Unity123456 gdzie 123456 to numer albumu. Mój nick to pjastr. 
+* Spushowanie wykonania projektu (przynajmniej częściowe) Roll-a-ball (do końca dnia). 
+* Stworzenie innego własnego CustomInspectora. (wystarczy spushować same pliki z folderu assets) 
+* Nauka obsługi okularów VR.
