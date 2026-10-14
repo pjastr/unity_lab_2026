@@ -94,4 +94,26 @@ Przeanalizuj teraz zmiany w pliku [PlayerController.cs](PlayerController.cs)
 1. Stwórz nową scenę, dodaj nowy pusty obiekt gry i przeanalizuj poniższy skrypt podpięty pod ten obiekt:
 [YieldExample.cs](YieldExample.cs)
 
+## Zadanie dłuże
 
+[zycie_i_pulapki.md](zycie_i_pulapki.md)
+
+# VR
+
+- dodanie pakietów Meta XR Core SDK (`com.meta.xr.sdk.core`) oraz Meta XR Interaction ​SDK (`com.meta.xr.sdk.interaction.ovr`)
+
+![](images/v1.png)
+
+![](images/v2.png)
+
+- włączenia obsługi OpenXR w ustawienia projektu
+
+![](images/v3.png)
+
+- w Build Profiles włączenie platofrmy Meta Quest i przełączenie się na nią
+
+![](images/v4.png)
+
+- w okularach w ustawieniach musi być włączone debugowanie USB (jeśli nie jest aktywne, należy zgłosić prowadzącemu w celu aktywacji)
+- przegląd sampli z pierwszego pakietu
+- wykonanie projektu roll-a-ball-vr [roll-a-ball-vr.md](roll-a-ball-vr.md)

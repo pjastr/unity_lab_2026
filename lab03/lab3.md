@@ -3,10 +3,12 @@
 
 # Podstawy skryptowania w Unity
 
-## Do przejrzenia materiały do samego języka C#
+## Do przejrzenia materiały do samego języka C
 
-- “moje” stare wykłady z ZPO
-  <https://piojas.pl/2025/03/12/zaawansowane-programowanie-obiektowe-wyklad-st-nstac-semestr-letni-2024-25/>
+- podręcznik z UE z Katowic
+  <https://drive.google.com/file/d/1ZDCghCZ85avY8uuB1ryx9CnoFaAk6sQ5/view>
+- “moje” wykłady z ZPO
+  <https://piojas.pl/2026/01/29/zaawansowane-programowanie-obiektowe-wyklad-st-nstac-semestr-letni-2025-26/>
 
 ## Skryptowanie w Unity
 
@@ -106,6 +108,30 @@ Przeanalizuj teraz zmiany w pliku
     poniższy skrypt podpięty pod ten obiekt:
     [YieldExample.cs](YieldExample.cs)
 
-## Zadanie dodatkowe
+## Zadanie dłuże
 
-- Wysłanie projektu Unity (nie buildu) z wykonanym ćwiczeniami - 1pkt.
+[zycie_i_pulapki.md](zycie_i_pulapki.md)
+
+# VR
+
+- dodanie pakietów Meta XR Core SDK (`com.meta.xr.sdk.core`) oraz Meta
+  XR Interaction ​SDK (`com.meta.xr.sdk.interaction.ovr`)
+
+![](images/v1.png)
+
+![](images/v2.png)
+
+- włączenia obsługi OpenXR w ustawienia projektu
+
+![](images/v3.png)
+
+- w Build Profiles włączenie platofrmy Meta Quest i przełączenie się na
+  nią
+
+![](images/v4.png)
+
+- w okularach w ustawieniach musi być włączone debugowanie USB (jeśli
+  nie jest aktywne, należy zgłosić prowadzącemu w celu aktywacji)
+- przegląd sampli z pierwszego pakietu
+- wykonanie projektu roll-a-ball-vr
+  [roll-a-ball-vr.md](roll-a-ball-vr.md)
