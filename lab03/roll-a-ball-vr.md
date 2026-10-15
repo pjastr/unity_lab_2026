@@ -179,14 +179,14 @@ Materiał przypisujesz, przeciągając go na obiekt w Scene lub Hierarchy.
 
 ### 5.1 Kod
 
-`Assets/RollABallVR/Scripts` → **Create → MonoBehaviour Script** → nazwa `PlayerController` → wklej:
+`Assets/RollABallVR/Scripts` → **Create → MonoBehaviour Script** → nazwa `PlayerControllerVR` → wklej:
 
 ```csharp
 using TMPro;
 using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody))]
-public class PlayerController : MonoBehaviour
+public class PlayerControllerVR : MonoBehaviour
 {
     [Header("Sterowanie")]
     [Tooltip("CenterEyeAnchor z Camera Rig – ruch jest liczony względem kierunku patrzenia")]
