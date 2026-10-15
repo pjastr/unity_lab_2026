@@ -130,6 +130,10 @@ Przeanalizuj teraz zmiany w pliku
 
 ![](images/v4.png)
 
+- w Player Settings optymalizacja dla buildowania
+
+![](images/v5.png)
+
 - w okularach w ustawieniach musi być włączone debugowanie USB (jeśli
   nie jest aktywne, należy zgłosić prowadzącemu w celu aktywacji)
 - przegląd sampli z pierwszego pakietu

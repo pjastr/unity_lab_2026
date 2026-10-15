@@ -114,6 +114,10 @@ Przeanalizuj teraz zmiany w pliku [PlayerController.cs](PlayerController.cs)
 
 ![](images/v4.png)
 
+- w Player Settings optymalizacja dla buildowania
+
+![](images/v5.png)
+
 - w okularach w ustawieniach musi być włączone debugowanie USB (jeśli nie jest aktywne, należy zgłosić prowadzącemu w celu aktywacji)
 - przegląd sampli z pierwszego pakietu
 - wykonanie projektu roll-a-ball-vr [roll-a-ball-vr.md](roll-a-ball-vr.md)
