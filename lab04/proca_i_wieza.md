@@ -227,7 +227,7 @@ public class Target : Breakable
 |----|----|---:|---:|----|----|----|
 | `Blok_Drewno` | Cube | 2 | 6 | domyślnie | `PM_Drewno` | `M_Drewno` |
 | `Blok_Szklo` (wariant) | Cube | 1,5 | 2 | domyślnie | `PM_Szklo` | `M_Szklo` |
-| `Blok_Kamien` (wariant) | Cube | 6 | 25 | domyślnie | `PM_Kamien` | `M_Kamien` |
+| `Blok_Kamien` (wariant) | Cube | 6 | 40 | domyślnie | `PM_Kamien` | `M_Kamien` |
 | `Cel` | Sphere, skala 0,7 | \- | 3 | *Mass* 1, *Angular Damping* 0,5 | `PM_Drewno` | `M_Cel` |
 | `Pocisk` | Sphere, skala 0,6 | \- | \- | *Mass* 3, *Angular Damping* 0,5, *Collision Detection* **Discrete**, *Interpolate* **None** | `PM_Guma` | `M_Pocisk` |
 
