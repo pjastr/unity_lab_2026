@@ -13,7 +13,7 @@
 
 ---
 
-## 2. Obowiązkowa struktura ekranu Credits
+## 2. Pzykładowa struktura ekranu Credits
 
 Kolejność sekcji:
 
