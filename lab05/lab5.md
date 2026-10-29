@@ -11,7 +11,8 @@ Stwórz nową scenę.
 
 ![](images/e11.png)
 
-2.  Dodaj na scenę kapsułkę z CharacterController. Podebnij skrypt:
+2.  Dodaj na scenę kapsułkę z CharacterController i PlayerInput.
+    Podebnij skrypt:
 
 ``` csharp
 using UnityEngine;
